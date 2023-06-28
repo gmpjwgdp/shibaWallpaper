@@ -1,0 +1,3 @@
+0 shiba
+1 other
+2 dog
